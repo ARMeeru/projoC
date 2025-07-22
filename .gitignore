@@ -1,0 +1,36 @@
+# Executables
+projo*
+*.exe
+*.out
+a.out
+
+# Build artifacts
+*.o
+*.so
+*.dylib
+*.a
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# Testing
+test_runner
+test_output.txt
+
+# Temporary files
+*.tmp
+*.temp
