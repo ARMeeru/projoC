@@ -89,9 +89,14 @@ This is a learning project, but contributions are welcome:
 - Platform-specific build instructions
 - Translations of blog posts
 
+## 🙏 Acknowledgments
+
+- Anthropic for their AI assistance
+- Zed for their IDE
+
 ## 📄 License
 
-MIT License - Learn, build, and share freely.
+The Unlicense - This project is in the public domain. Learn, build, and share freely.
 
 ---
 
