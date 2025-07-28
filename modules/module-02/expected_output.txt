@@ -1,0 +1,12 @@
+Projo - Project Organizer v0.1
+Error: No command provided. Try 'projo help' for usage.
+
+Projo - Project Organizer v0.1
+Usage:
+  projo help     Show this help message
+  projo version  Show version information
+
+Projo - Project Organizer v0.1
+
+Projo - Project Organizer v0.1
+Error: Unknown command 'something-else'. Try 'projo help'.
