@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <string.h>
+#include <string.h> // Needed for strcmp(), strcpy(), strlen()
 
 // Define a constant for maximum task length to prevent buffer overflow.
 // This is a classic "stack allocated array" - safe as long as we check lengths.

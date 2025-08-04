@@ -1,0 +1,24 @@
+Projo - Project Organizer v0.1
+Error: No command provided. Try 'projo help' for usage.
+
+Projo - Project Organizer v0.1
+Usage:
+  projo help                Show this help message
+  projo version             Show version information
+  projo add "task desc"      Add a new task in memory
+
+Projo - Project Organizer v0.1
+Projo - Project Organizer v0.1
+
+Task added:
+  1. Learn C variables
+
+Projo - Project Organizer v0.1
+Error: No task description provided.
+Usage: projo add "your task description"
+
+Projo - Project Organizer v0.1
+Error: Task description is too long (max 99 characters).
+
+Projo - Project Organizer v0.1
+Error: Unknown command 'foobar'. Try 'projo help'.
