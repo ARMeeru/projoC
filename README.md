@@ -1,3 +1,5 @@
+> **Archived (September 2026).** A learn-C tutorial project that reached module 3 of the 25 modules its README planned, then stopped in August 2025. A hundred C curricula cover the same ground; the useful part of this one was building it.
+
 # 🚀 Projo - Learn C by Building a Project Organizer
 
 > A hands-on journey through C programming, one commit at a time.
